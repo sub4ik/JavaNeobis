@@ -1,8 +1,7 @@
 # JavaNeobis
 ## КыйналыпКалдым
 
-![DotaSGN] 
-(https://github.com/sub4ik/JavaNeobis/blob/master/dota.jpg)
+![DotaSGN](https://github.com/sub4ik/JavaNeobis/blob/master/dota.jpg)
 
 ```
 import java.io.IOException;
